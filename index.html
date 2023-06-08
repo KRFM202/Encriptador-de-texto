@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador de texto</title>
+    <link rel="icon" href="images/lock.png" type="imagen/png">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="container-header">
+            <div class="container-logo">
+                <h1 class="logo"><img src="images/Vector.png" alt="Logo de Alura Latam"></h1>
+            </div>
+            <div class="container-titulo">
+                <h1 class="titulo">Encriptador de texto <div class="parpadeo">_</div></h1>
+            </div>
+
+        </div>
+    </header>
+    <main class="container-main">
+        <section class="bloque-principal">
+            <form class="formulario">
+                <textarea cols="70" rows="10" class="mensaje" placeholder="Ingrese el texto aquí" autofocus></textarea>
+                <p class="advertencia">&#9888; Solo letras minúsculas y sin acentos</p>
+                <div class="botones">
+                    <button class="btn-encriptar">Encriptar</button>
+                    <button class="btn-desencriptar">Desencriptar</button>
+                </div>
+                <div class="botones-extra">
+                    <button class="btn-limpiar">Limpiar</button>
+                    <button class="btn-pegar">Pegar</button>
+                </div>
+            </form>
+        </section>
+        <section class="bloque-secundario" id="b-secund">
+                <img class="imagen" src="images/Muñeco.png" alt="ilustración de persona buscando un objeto">
+                <h2>Ningún mensaje fue encontrado</h2>
+                <p>Ingresa el texto que desees encriptar o desencriptar</p>
+        </section>
+        <section class="bloque-resultado" id="b-result">
+                <p id="copia-parrafo"></p>
+                <div class="copia-container">
+                    <h4 id="copia-check">&#9989;¡Texto Copiado!</h4>
+                </div>
+                <form>
+                    <button class="btn-copiar">Copiar</button>
+                </form>
+        </section>
+    </main>
+    <footer class="creditos">
+        <h3>Challenge realizado por <strong>Kevin Flores</strong>:</h3>
+        <a href="https://www.linkedin.com/in/kevin-flores-dev/" title="Perfil de LinkedIn" target="_blank"><img class="linkedin" src="images/linkedin-logo.png"></a>
+        <a href="https://github.com/KRFM202" title="Perfil de GitHub" target="_blank"><img class="github" src="images/github-logo.png"></a>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
