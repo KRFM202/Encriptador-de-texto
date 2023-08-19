@@ -20,7 +20,7 @@
 2. Ingresa el texto que deseas encriptar en el cuadro de texto.
 3. Haz clic en el botón "Encriptar" para obtener el texto encriptado ilegible.
 4. Puedes copiar el texto encriptado haciendo clic en el botón "Copiar".
-5. Para desencriptar el texto, pega el texto encriptado en el cuadro de texto correspondiente.
+5. Para desencriptar el texto, con el boton "Pegar" pega el texto encriptado en el cuadro de texto correspondiente.
 6. Haz clic en el botón "Desencriptar" para recuperar el texto original.
 
 ## Contribuciones
