@@ -37,4 +37,4 @@ Este proyecto está bajo la Licencia [MIT](LICENSE).
 
 ---
 
-¡Gracias por explorar el Encriptador de Texto! Esperamos que encuentres útil esta herramienta para tus necesidades de encriptación y desencriptación. Si tienes alguna pregunta o problema, no dudes en abrir un issue en este repositorio.
+¡Gracias por explorar el Encriptador de Texto! Espero que encuentres útil esta herramienta para tus necesidades de encriptación y desencriptación. Si tienes alguna pregunta o problema, no dudes en abrir un issue en este repositorio.
