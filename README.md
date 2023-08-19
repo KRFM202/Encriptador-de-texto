@@ -16,7 +16,7 @@
 
 ## Uso
 
-1. Abre la [página web del Encriptador de Texto](https://github.com/KRFM202/Encriptador-de-texto/deployments/github-pages) en tu navegador.
+1. Abre la [página web del Encriptador de Texto](https://github.com/KRFM202/Encriptador-de-texto) en tu navegador.
 2. Ingresa el texto que deseas encriptar en el cuadro de texto.
 3. Haz clic en el botón "Encriptar" para obtener el texto encriptado ilegible.
 4. Puedes copiar el texto encriptado haciendo clic en el botón "Copiar".
